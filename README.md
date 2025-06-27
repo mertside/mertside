@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- README.md -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!--
-**mertside/mertside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+I am Mert, a Ph.D. candidate in Computer Science at Texas Tech University.  
+My research focuses on:
+- Secure high-performance computing architectures  
+- Energy-efficient GPU systems  
+- Side-channel and covert-channel security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td width="50%" valign="top">
+
+## 🌐 Top Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mertside&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
+
+</td>
+</tr>
+</table>
