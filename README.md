@@ -14,9 +14,9 @@ My research focuses on:
 </td>
 <td width="50%" valign="top">
 
-## 🌐 Top Languages
+## 🌐 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mertside&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mertside&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true&include_all_commits=true&hide_title=true&hide_border=false)
 
 </td>
 </tr>
