@@ -1,23 +1,21 @@
 <!-- README.md -->
-<table>
-<tr>
-<td width="50%" valign="top">
+# 👋 About Me
 
-## 👋 About Me
+Security Engineer — Secure Design  
+Apple Inc. | Security Engineering & Architecture (SEAR)
 
-I am Mert, a Ph.D. candidate in Computer Science at Texas Tech University.  
-My research focuses on:
-- Secure high-performance computing architectures  
-- Energy-efficient GPU systems  
-- Side-channel and covert-channel security
+I work on system-level security design, threat modeling, and architectural security reviews for complex software systems.
 
-</td>
-<td width="50%" valign="top">
+---
 
-## 🌐 Most Used Languages
+All repositories and code here are personal, academic, or predate my employment at Apple.  
+They are not affiliated with or representative of Apple or its products.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mertside&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true&include_all_commits=true&hide_title=true&hide_border=false)
+---
 
-</td>
-</tr>
-</table>
+I earned my Ph.D. in Computer Science from Texas Tech University, where my research focused on the intersection of **security, performance, and scalability** in modern systems.
+
+Key areas:
+- **Secure memory architectures:** Capability-based global address spaces (xBGAS) on CHERI/ARM Morello.
+- **GPU efficiency:** DVFS-aware power and performance modeling across NVIDIA and AMD GPUs.
+- **System side channels:** GPU-based covert and side-channel analysis in shared environments.
